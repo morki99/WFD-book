@@ -1,0 +1,47 @@
+body{
+    font-size:30px;
+    line-height: 1.5;
+    color: #433520;
+    font-family: arial;
+    background-color: #557174;
+}
+
+.title{
+    margin-bottom: 30px;
+    border-radius: 30%;
+    width: 100%;
+    height: 120px;
+    background-color: #00917c;
+}
+
+.title-text{
+    color: #433520;
+      font-family: 'Courgette';
+    font-size: 80px;
+    text-align: center;
+}
+
+.background{
+    border: 5px solid #00917c;
+    width: 100%;
+    height: auto;
+    background-color: #fde8cd;
+}
+
+.heading{
+    text-align: center;
+    color: #433520;
+    font-size: 65px;
+}
+
+.card{
+    height: auto;
+    width: 35%;
+    background-color: #dfe0df;
+    border: 7px solid #433520;
+}
+
+.heading2{
+    color: #433520;
+    font-size: 50px;
+}

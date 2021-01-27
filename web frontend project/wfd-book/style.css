@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
+
+
+
+body{
+    font-family: Verdana;
+    font-size: 35px;
+    line-height: 1.6;
+    margin: 5px;
+    padding: 0px;
+    background-color: #557174 ;
+}
+
+.heading{
+    margin: 50p;
+    padding: 50px;
+    font-family: monospace;
+    font-size: 55px;
+    color: #433520;
+    text-align: center;
+}
+
+.heading3{
+    padding: 10px;
+    font-family: fantasy;
+    font-size: 35px;
+    color: #433520;
+}
+
+/*title*/
+
+.one{
+    background-color: #fde8cd;
+    margin: 0px;
+    width: 100%;
+    height: auto;
+}
+
+.title{
+    margin-bottom: 30px;
+    border-radius: 30%;
+    width: 100%;
+    height: 120px;
+    background-color: #00917c;
+}
+
+
+.title-text{
+    color: #433520;
+    font-family: 'Courgette';
+    font-size: 80px;
+    text-align: center;
+}
+/*logic*/
+.logic{
+    border: 6px solid #dfe0df;
+    background-image: url(image-background1.jpg);
+    background-color: #dfe0df;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 550px;
+}
+
+.logic-heading{
+    color: #433520;
+    padding-top: 180px;
+   text-align:center;
+    font-size: 45px;
+    font-family: fantasy;
+}
+
+/*general-theme-selection*/
+.general-theme-selection{
+    align-self: center;
+    border: 10px solid #dfe0df;
+    background-color: #00917c;
+    width: auto;
+    height: auto;
+}
+
+.selection-heading{
+    font-family: 'Ubuntu';
+    font-size: 55px;
+    color: #433520;
+    text-align: center;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.selection-heading a{
+    color: #433520;
+    text-decoration: none;
+    border: 3px solid #dfe0df;
+    padding: 0px 50px;
+    margin: 25px;
+}
+
+/* .selection-heading:nth-child(1) {
+       margin: 0 20px 0 0 ;
+} */
+
+.selection-heading a:hover{
+    color: #557174;
+    text-decoration: none;
+    border: 3px solid #dfe0df;
+    padding: 0px 50px;
+    /* margin: 0px 100px; */
+}
+
+/*general-theme*/
+.general-theme{
+    color: #433520;
+    width: 100%;
+    height: 1400px;
+    border: 10px solid #dfe0df;
+}
+
+.card-text1{
+    border: 4px solid #dfe0df;
+}
+
+.heading-general-theme{
+    padding: 10px;
+    font-size: 55px;
+    color: #433520;
+}
+
+/*contacts*/
+.contacts{
+    width: 100%;
+    height: auto;
+    background-color: #00917c;
+}
+
+.contacts-heading{
+    text-align: center;
+    color: rgba(67, 53, 32, 60%);
+    font-size: 50px;
+}
+
+.contacts-text{
+    text-align: center;
+    color: rgba(67, 53, 32, 60%);
+    font-size: 40px;
+}
